@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PantallaInicioActivity"></activity>
+        <activity android:name=".PantallaInicioActivity" />
+        <activity android:name=".EnserioamiguitoActivity"></activity>
     </application>
 
 </manifest>
