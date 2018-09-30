@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">oaoaoaoa</string>
+    <string name="msg_bienvenida">Bienvenido a mi aplicacion</string>
+    <string name="msg_usuario">Usuario</string>
+    <string name="msg_aceptar">Aceptar</string>
 </resources>
+
+
